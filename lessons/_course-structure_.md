@@ -8,7 +8,7 @@ No início de cada aula, determino o contexto do que será tratado.
 
 > 👨‍🏫 Por exemplo: Fazendo _upload_ de arquivos com Cypress.
 
-Nesta seção, explico sobre uma ou mais situações comuns encontradas no mundo da automação de testes web e apresento funcionalidades do Cypress que resolvem determinados casos de uso, com exemplos.
+Nesta seção, explic++++,,o sobre uma ou mais situações comuns encontradas no mundo da automação de testes web e apresento funcionalidades do Cypress que resolvem determinados casos de uso, com exemplos.
 
 > 👨‍🏫 No caso acima, por exemplo, eu citaria a funcionalidade [`.selectFile()`](https://docs.cypress.io/api/commands/selectfile), com exemplos de seu uso.
 >

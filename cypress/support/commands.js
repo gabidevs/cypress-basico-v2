@@ -22,6 +22,7 @@
 //
 //
 // -- This will overwrite an existing command --
+<<<<<<< HEAD
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 
 Cypress.Commands.add('fillMandatoryFieldsAndSubmit', function() {
@@ -42,3 +43,6 @@ Cypress.Commands.add('fillMandatoryFieldsAndSubmit', function() {
       .should('be.visible')
 })
 
+=======
+// Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+>>>>>>> f3e3cd7e461b1ad584feb85e910b8c23ecc9a506

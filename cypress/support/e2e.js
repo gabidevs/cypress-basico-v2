@@ -17,4 +17,8 @@
 import './commands'
 
 // Alternatively you can use CommonJS syntax:
+<<<<<<< HEAD
 //require('./commands')
+=======
+// require('./commands')
+>>>>>>> f3e3cd7e461b1ad584feb85e910b8c23ecc9a506
